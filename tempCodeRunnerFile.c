@@ -1,0 +1,1 @@
+    printf("The ara Is = %f",ara);
